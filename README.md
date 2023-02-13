@@ -1,6 +1,6 @@
 @202210: Studying web page and Big Data skills.<br>
 programming skills:<br>
-### HTML,CSS,JAVASCRIPT,JAVA,PYTHON,Numpy,Pandas,Matplotlib,Beautifulsoup,Selenium, linux bash script windows batch script<BR>
+### HTML,CSS,JAVASCRIPT,JAVA,PYTHON,Numpy,Pandas,Matplotlib,Beautifulsoup,Selenium, MySQL, linux bash script windows batch script<BR>
 @201908: Unicore hospital again hits new milestone.<br>
 @201906: <b>Comlete a contract worths 1 million NTD.</b> With this contract as a seed, <b>following monthly revenue would grow at least 30%.</b><br>
 @201808: Within 4 months, 0 cost, I put a 1yr old animal hospital on the cover story of a well-known national-wide business magazine.<br>
