@@ -1,5 +1,8 @@
 @202210: Studying web page and Big Data skills.<br>
 programming skills:<br>
+💻 ![decription](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  ![decription](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)<br>
+⚙️ ![decription](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  ![decription](https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white) ![decription](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![decription](https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=html5&logoColor=white) ![decription](https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 ### HTML,CSS,JAVASCRIPT,JAVA,PYTHON,Numpy,Pandas,Matplotlib,Beautifulsoup,Selenium, MySQL<br>Linux bash script, Windows batch script,Docker container <BR>
 ### Want to learn more about Iac method to automatically build a system like Hadoop because they can organize a butch of old computers to a cluster that is capable of computing massive data. 
 @201908: Unicore hospital again hits new milestone.<br>
