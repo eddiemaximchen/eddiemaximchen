@@ -1,6 +1,6 @@
 @202210: Studying web page and Big Data skills.<br>
 programming skills:<br>
-### HTML,CSS,JAVASCRIPT,JAVA,PYTHON,Numpy,Pandas,Matplotlib,Beautifulsoup,Selenium, MySQL<br>Linux bash script, Windows batch script<BR>
+### HTML,CSS,JAVASCRIPT,JAVA,PYTHON,Numpy,Pandas,Matplotlib,Beautifulsoup,Selenium, MySQL<br>Linux bash script, Windows batch script,Docker container <BR>
 ### Want to learn more about Iac method to automatically build a system like Hadoop because they can organize a butch of old computers to a cluster that is capable of computing massive data. 
 @201908: Unicore hospital again hits new milestone.<br>
 @201906: <b>Comlete a contract worths 1 million NTD.</b> With this contract as a seed, <b>following monthly revenue would grow at least 30%.</b><br>
