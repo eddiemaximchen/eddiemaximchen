@@ -4,7 +4,7 @@
 ### IDE ![decription](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![decription](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=VScode&logoColor=white)<br>
 ## 🌐 ![decription](https://img.shields.io/badge/Hadoop-HDFS-007ACC?style=for-the-badge&logo=Hadoop-HDFS&logoColor=white) ![decription](https://img.shields.io/badge/Hadoop-Hive-007ACC?style=for-the-badge&logo=Hadoop-Hive&logoColor=white) ![decription](https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=Docker&logoColor=white)<br>
 ### Want to learn more about Iac method to automatically build a system like Hadoop because they can organize a butch of old computers to a cluster that is capable of computing massive data. 
-### WORK: <a href='https://github.com/eddiemaximchen/leaflet-application.git'>traveling with leaflet</a> / <a href='https://github.com/eddiemaximchen/twse.git'>stock analysis</a> / <a href='https://github.com/eddiemaximchen/novel.git'>download novels using bs4</a> / <a href='https://github.com/eddiemaximchen/automation.git'> find opening job using Selenium</a><br>
+### work: <a href='https://github.com/eddiemaximchen/leaflet-application.git'>traveling with leaflet</a> / <a href='https://github.com/eddiemaximchen/twse.git'>stock analysis</a> / <a href='https://github.com/eddiemaximchen/novel.git'>download novels using bs4</a> / <a href='https://github.com/eddiemaximchen/automation.git'> find opening job using Selenium</a><br>
 ![image](https://user-images.githubusercontent.com/122704850/223017932-0cf03917-f335-41d4-a558-c1e68364cde1.png)<br>
 ### @202210: Studying web page and Big Data skills.<br>
 ###  @201908: Unicore hospital again hits new milestone.<br>
