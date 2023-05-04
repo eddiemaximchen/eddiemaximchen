@@ -14,4 +14,9 @@
 ###  @201808: Within 4 months, 0 cost, I put a 1yr old animal hospital on the cover story of a well-known national-wide business magazine.<br>
 ###  @201609: <b>completed the first and biggest android smart watch project</b> at compal electronics smart device business group(SDBG). In the process, successfully worked with <b>Google and Fossil</b>, which is a traditional watch brand at that time. <br>
 ### @character: <b>logical thinking</b>.  always looking for the shortest possible way to solve issues even routine errands. <b>ex: Cut accounting report lead time from 2hr to 30 sec using excel programming(VBA).</b><br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eddiemaximchen&bg_color=ffffff&color=000000&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eddiemaximchen&bg_color=ffffff&color=000000&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+
+### Certification:
+
+![螢幕快照 2023-05-04 18-52-59](https://user-images.githubusercontent.com/122704850/236184188-b322ae16-e426-42ce-b293-6e47718c4d84.png)
+
